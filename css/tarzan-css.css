@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	background-color: orangered;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+header{
+	background-color: #228B22;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	font-family: Helvetica, sans-serif, Arial;
+}
+   
+header img{
+	border-radius: 150px;
+	border: 2px solid white; 
+	width:429px;
+}
+h1, h2{
+	font-family: JonasSplint, cursive;
+	}
+
+   h2{
+   	font-size: 30px; 
+   }
+main{
+	max-width: 800px;
+	margin: 0, auto;
+	padding: 0px 0px 20px 140px;
+}
+a{
+	color:yellow;
+
+}
+a:hover{
+color: white;
+	background-color: purple;
+}
+footer{
+	text-align: right;
+}
+footer p{
+	margin: 0;
+	padding:10px;
+}
+p.caption{
+	color: gainsboro;
+	font-style: italic;
+	margin-top: 0;
+}
